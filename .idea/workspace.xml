@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25800241-fe20-4258-b87f-b36e9fd0e9c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_4_22,_17_14_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_4_22__17_14__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/configuration/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/configuration/Configuration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/models/Supplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/SupplierService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/peaksoft/house/services/SupplierService.java" afterDir="false" />
-    </list>
+    <list default="true" id="25800241-fe20-4258-b87f-b36e9fd0e9c7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +78,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -141,7 +125,7 @@
       <workItem from="1651557577969" duration="12299000" />
       <workItem from="1651741011547" duration="6687000" />
       <workItem from="1651909760910" duration="3255000" />
-      <workItem from="1652114116729" duration="13041000" />
+      <workItem from="1652114116729" duration="15104000" />
     </task>
     <servers />
   </component>
